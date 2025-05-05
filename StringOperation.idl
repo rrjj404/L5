@@ -1,0 +1,8 @@
+module SimpleString
+{
+    interface StringOperation
+    {
+        string get_String(in string symbol);
+    };
+};
+
